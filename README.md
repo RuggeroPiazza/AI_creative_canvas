@@ -120,7 +120,7 @@ A simple GUI can be developed to initiate the process. Throughout the execution,
 Users can then opt to download or save the image accordingly.      
 
 ## Flow<a id="flow"></a>
-![flow diagramm](image url "ai_app")
+![flow diagramm](./images_and_examples/ai_app.jpg)
 
 The whole process its triggered by the app.py script. The execution can be scheduled using a bash script.      
 
