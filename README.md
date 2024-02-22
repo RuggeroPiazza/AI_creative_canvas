@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/downloads/release/python-312/)
 
-> A fully automated application where two AIs work together to create AI art and publish it on Instagram.
+> A fully automated application where two AIs work together to create AI art and publish it on Instagram.      
+> Click [here](https://www.instagram.com/ai_creative_canvas/) for the AI_creative_canvas Instagram page.         
 
 ## DISCLAIMER<a id="disclaimer"></a>
 This project is intended solely for educational purposes.      
